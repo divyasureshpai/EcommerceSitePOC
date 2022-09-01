@@ -3,8 +3,6 @@
 This test suit tests
 
 1. Nature's way web page 'Add to cart feature: WEB
-2. Verify the Authentication functionality of the app.baze: API
-3. Password reset functionality of app.baze: API
 
 ## Set Up for executing API password reset functionality
 
