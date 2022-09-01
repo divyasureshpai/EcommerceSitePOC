@@ -1,4 +1,4 @@
-# POC Baze Labs test suite
+# Ecommerce automation test suite
 
 This test suit tests
 
